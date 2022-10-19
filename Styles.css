@@ -1,0 +1,227 @@
+.h1 {
+    background-color: pink;
+    padding: 5px;
+    height: 80px;
+    width: 230px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.head {
+    background-color: gray;
+    padding: 5px;
+    height: 80px;
+    width: 100px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+    }
+
+.home {
+    background-color: plum;
+    position: relative;
+    left: 1000px;
+    top: 100px;
+    position: absolute;
+    padding: 5px;
+    height: 60px;
+    width: 90px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.photos {
+    background-color: plum;
+    position: relative;
+    left: 1120px;
+    top: 100px;;
+    position: absolute;
+    padding: 5px;
+    height: 60px;
+    width: 70px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.business {
+    background-color: plum;
+    position: relative;
+    left: 1180px;
+    top: 160px;;
+    position: absolute;
+    padding: 5px;
+    height: 60px;
+    width: 70px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.head1 {
+    background-color: gold;
+    position: relative;
+    left: 600px;
+    padding: 5px;
+    height: 80px;
+    width: 180px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.head2 {
+    background-color: blue;
+    position: relative;
+    left: 600px;
+    padding: 5px;
+    height: 60px;
+    width: 220px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.camera {
+    background-color: palevioletred;
+    position: relative;
+    left: 500px;
+    padding: 5px;
+    height: 70px;
+    width: 430px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.business {
+    background-color: plum;
+    position: relative;
+    left: 1230px;
+    top: 100px;;
+    position: absolute;
+    padding: 5px;
+    height: 70px;
+    width: 90px;
+    border: 45px; 
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.image {
+    position: relative;
+    bottom:  310px;
+    left: 540px;
+}
+
+.image2 {
+    position: relative;
+    bottom: 160px;
+    left: 100px;
+}
+
+.image3 {
+    position: relative;
+    bottom: 605px;
+    left: 800px;
+}
+
+.image4 {
+    position: relative;
+    bottom: 490px;
+    left: 270px;
+}
+
+.bio {
+    position: relative;
+    left: 555px;
+    bottom: 450px;
+}
+
+.me {
+    position: relative;
+    left: 700px;
+    bottom: 450px;
+}
+
+.info {
+    position: relative;
+    bottom: 800px;
+    padding: 5px;
+    width: 600px;
+    margin: 20px;
+
+}
+
+.pic1 {
+    position: relative;
+    left: 25px;
+}
+
+.pic2 {
+    position: relative;
+    left: 520px;
+    bottom: 260px;
+}
+
+.pic3 {
+    position: relative;
+    left: 1000px;
+    bottom: 520px;
+}
+
+.pic4 {
+    position: relative;
+    left: 25px;
+    bottom: 480px;
+}
+
+.pic5 {
+    position: relative;
+    left: 520px;
+    bottom: 745px;
+}
+
+.pic6 {
+    position: relative;
+    left: 1000px;
+    bottom: 1010px;
+}
+
+.pic7 {
+    position: relative;
+    left: 25px;
+    bottom: 960px;
+}
+
+.pic8 {
+    position: relative;
+    left: 515px;
+    bottom: 1220px;
+}
+
+.pic9 {
+    position: relative;
+    left: 990px;
+    bottom: 1485px;
+}
+
+.pic10 {
+    position: relative;
+    left: 25px;
+    bottom: 1440px;
+}
+
+.pic11 {
+    position: relative;
+    left: 516px;
+    bottom: 1700px;
+}
+
+.pic12 {
+    position: relative;
+    left: 990px;
+    bottom: 1968px;
+}
